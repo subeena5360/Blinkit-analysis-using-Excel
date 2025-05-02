@@ -7,10 +7,11 @@ Problem Statement
  optimization using various KPIs and visualizations in Power BI.
  
  KPI Requirements
- - Total Sales: The overall revenue generated from all items sold.
- - - Average Sales: The average revenue per sale. - Number of Items: The total count of different items sold.
-   - - Average Rating: The average customer rating for items sold.
-     - 
+- Total Sales: The overall revenue generated from all items sold.
+- Average Sales: The average revenue per sale.
+- Number of Items: The total count of different items sold.
+- Average Rating: The average customer rating for items sold.
+
  Chart Requirements
  
  1. Total Sales by Fat Content : Analyze impact of fat content on sales.
